@@ -1,0 +1,10 @@
+{
+  "id": "nutrition-labels",
+  "title": "Understanding Nutrition Facts Labels: Serving Sizes and Daily Values",
+  "category": "Hydration & Nutrition",
+  "content": "Reading the Nutrition Facts label on packaged foods empowers consumers to make informed dietary decisions aligned with cardiovascular, metabolic, and weight management goals.\n\nKey Components to Check on the Label:\n1. Serving Size & Servings Per Container: All nutrient amounts shown on the label correspond to ONE single serving, not the entire package. If a package contains 2.5 servings and you consume the entire package, you must multiply all calorie and nutrient numbers by 2.5.\n2. Calories: Represents the energy content provided per serving. A benchmark of 40 calories per serving is low, 100 calories is moderate, and 400+ calories per serving is high.\n3. The 5/20 Rule for Percent Daily Value (%DV):\n- 5% DV or less per serving is considered LOW in that nutrient.\n- 20% DV or more per serving is considered HIGH in that nutrient.\n*Use this rule to aim high (20%+) in beneficial nutrients: dietary fiber, vitamin D, calcium, iron, and potassium.\n*Aim low (5% or less) in nutrients to limit: saturated fat, trans fat, sodium, and added sugars.\n4. Added Sugars: Distinguishes between naturally occurring sugars (such as lactose in milk or fructose in fruit) and sugars added during processing (such as high-fructose corn syrup, cane sugar, dextrose). Dietary guidelines recommend keeping added sugars below 10% of total daily calories.\n5. Ingredient List: Ingredients are listed in descending order by weight. Avoid products where hydrogenated oils, refined sugars, or artificial additives occupy the top three spots.",
+  "source_name": "U.S. Food and Drug Administration (FDA)",
+  "source_url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+  "last_reviewed": "2024-01-20",
+  "keywords": ["nutrition label", "serving size", "calories", "daily value", "sugar", "sodium", "dietary fiber", "ingredients", "healthy eating"]
+}
